@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 <h1 align="center">🌟 Hey there — I'm <strong>Emanuel Tchipoque</strong> 👋</h1>
-<h3 align="center">42 Lisboa Student | Aspiring Cybersecurity & AI Engineer | Tech Explorer</h3>
+<h3 align="center">42 Porto Student | Aspiring Cybersecurity & AI Engineer | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Student-42%20Lisboa-blue?style=for-the-badge&logo=42&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Student-42%20Porto-blue?style=for-the-badge&logo=42&logoColor=white"/>
   <img src="https://img.shields.io/badge/C_Developer-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-Learning-blue?style=for-the-badge&logo=python&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/AI-Explorer-purple?style=for-the-badge&logo=openai&logoColor=white"/>
