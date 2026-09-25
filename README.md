@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-- 🧠 Currently studying at **42 Lisboa**  
+- 🧠 Currently studying at **42 Porto**  
 - 📍 Born in **Luanda, Angola** (18 June 2006)  
 - 🎓 Completed **CCNA 1, 2 & 3** — strong foundation in networking  
 - 🥊 I live an active lifestyle — **gym & kickboxing**  
@@ -24,7 +24,7 @@
 
 ## 🚀 What I'm Working On
 
-I'm currently building my technical foundation at **42 Lisboa**, diving into areas such as:
+I'm currently building my technical foundation at **42 Porto**, diving into areas such as:
 
 - 🧩 **Low-level programming** → memory management, pointers, system logic, clean code  
 - 🐍 **Python fundamentals** → automation, scripts, building tools  
